@@ -4,7 +4,7 @@
 
 Source Code: https://github.com/CoachNooB/kitchen-order-system
 
-Live Demo:
+Live Demo: https://ipiring.herokuapp.com/
 
 Email: harry.antonius.pro@gmail.com
 
